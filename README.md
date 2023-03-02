@@ -1,3 +1,4 @@
-# Getting Started with Create React App
+# TextUtils
 
-This project was bootstrapped with [Create React App]
+Getting Started with my First React App
+
